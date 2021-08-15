@@ -23,6 +23,6 @@
 ## 주요 화면
 
 ### 메인 화면
+![img3](https://user-images.githubusercontent.com/60768863/129478959-86938e0b-bcc4-4ceb-9a75-58e05abb6282.png)
 
-<img src="./Desktop/img3.png"  width="500" height="700">
 
