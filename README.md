@@ -26,8 +26,3 @@
 
 <img src="./Desktop/img3.png"  width="500" height="700">
 
-### 여행지 상세 페이지 & 댓글
-
-<img src="./img/1.png" width=700>
-<img src="./img/7.png" width=700>
-<img src="./img/2.png" width=700>
