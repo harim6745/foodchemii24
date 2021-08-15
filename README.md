@@ -24,7 +24,7 @@
 
 ### 메인 화면
 
-<img src="/Desktop/img3.png"  width="500" height="700">
+<img src="./Desktop/img3.png"  width="500" height="700">
 
 ### 여행지 상세 페이지 & 댓글
 
